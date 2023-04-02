@@ -1,0 +1,7 @@
+2023-04-03 00:19:08.265888 - Initialized conversion of CBT444
+2023-04-03 00:19:08.311190 - Received CBT.V504.FILE444.PDS from FILE444.XMI 
+2023-04-03 00:19:08.312718 - Found $$$DOC.bin containing application/octet-stream, moved to PDS/$$$DOC
+2023-04-03 00:19:08.315057 - Found $$$DOC1.txt (text/plain) in CBT.V504.FILE444.PDS, moved to PDS/$$$DOC1
+2023-04-03 00:19:08.316062 - Found @FILE444.txt (text/plain) in CBT.V504.FILE444.PDS, moved to PDS/@FILE444
+2023-04-03 00:19:08.317155 - Found CPRDTAPE.txt (text/plain) in CBT.V504.FILE444.PDS, moved to PDS/CPRDTAPE
+2023-04-03 00:19:08.318273 - Found CPWTA.txt (text/plain) in CBT.V504.FILE444.PDS, moved to PDS/CPWTA
