@@ -1,6 +1,6 @@
-2025-04-15 02:32:55.358377 - Received CBT.V505.FILE444.PDS from FILE444.XMI 
-2025-04-15 02:32:55.359367 - Found $$$DOC.bin (application/octet-stream) in CBT.V505.FILE444.PDS, moved to PDS/$$$DOC
-2025-04-15 02:32:55.359726 - Found $$$DOC1.txt (text/plain) in CBT.V505.FILE444.PDS, moved to PDS/$$$DOC1
-2025-04-15 02:32:55.359907 - Found @FILE444.txt (text/plain) in CBT.V505.FILE444.PDS, moved to PDS/@FILE444
-2025-04-15 02:32:55.360269 - Found CPRDTAPE.txt (text/plain) in CBT.V505.FILE444.PDS, moved to PDS/CPRDTAPE
-2025-04-15 02:32:55.360435 - Found CPWTA.txt (text/plain) in CBT.V505.FILE444.PDS, moved to PDS/CPWTA
+2025-04-15 21:20:41.244393 - Received CBT.V505.FILE444.PDS from FILE444.XMI 
+2025-04-15 21:20:41.245537 - Found $$$DOC.bin (application/octet-stream) in CBT.V505.FILE444.PDS, moved to PDS/$$$DOC
+2025-04-15 21:20:41.245714 - Found $$$DOC1.txt (text/plain) in CBT.V505.FILE444.PDS, moved to PDS/$$$DOC1
+2025-04-15 21:20:41.245761 - Found @FILE444.txt (text/plain) in CBT.V505.FILE444.PDS, moved to PDS/@FILE444
+2025-04-15 21:20:41.246088 - Found CPRDTAPE.txt (text/plain) in CBT.V505.FILE444.PDS, moved to PDS/CPRDTAPE
+2025-04-15 21:20:41.246323 - Found CPWTA.txt (text/plain) in CBT.V505.FILE444.PDS, moved to PDS/CPWTA
